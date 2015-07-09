@@ -1,0 +1,31 @@
+{
+  "name": "ITPipes",
+  "version": "0.0.1",
+  "description": "ITPipes video server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/City-of-Raleigh-Public-Utilities/ITPipes.git"
+  },
+  "keywords": [
+    "ITPipes",
+    "sewer",
+    "CCTV",
+    "Raleigh",
+    "City",
+    "of",
+    "Raleigh"
+  ],
+  "author": "Corey White",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/City-of-Raleigh-Public-Utilities/ITPipes/issues"
+  },
+  "homepage": "https://github.com/City-of-Raleigh-Public-Utilities/ITPipes",
+  "dependencies": {
+    "mssql": "^2.1.6"
+  }
+}
